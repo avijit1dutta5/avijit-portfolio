@@ -1,0 +1,35 @@
+{
+    "name": "Avijit Dutta — Senior Mobile Developer",
+    "short_name": "Avijit Dutta",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#030712",
+    "theme_color": "#0066FF",
+    "description": "Senior Mobile Application Developer specializing in Flutter, Android, and iOS. Portfolio showcasing 5+ years of mobile development expertise.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
